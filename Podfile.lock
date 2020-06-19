@@ -1,0 +1,62 @@
+PODS:
+  - Alamofire (4.8.1)
+  - AlamofireObjectMapper (5.2.0):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Charts (3.2.1):
+    - Charts/Core (= 3.2.1)
+  - Charts/Core (3.2.1)
+  - Kingfisher (5.1.0)
+  - ObjectMapper (3.4.2)
+  - Realm (3.13.1):
+    - Realm/Headers (= 3.13.1)
+  - Realm/Headers (3.13.1)
+  - RealmSwift (3.13.1):
+    - Realm (= 3.13.1)
+  - RxAtomic (4.4.0)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AlamofireObjectMapper (~> 5.0)
+  - Charts
+  - Kingfisher
+  - RealmSwift
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Charts
+    - Kingfisher
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
+  Charts: f122fb70b19847fa5817d018b77d6c5a2296ab25
+  Kingfisher: fcec238063d17404fca89bf0a850583211c4cbf6
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  Realm: 50071da38fe079e0735e47c9f2eae738c68c5996
+  RealmSwift: 8a1e6a02b7a08cd17a31e3115143fb69fe5f3fb9
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: ce59c9520a2eb62aadd29e50af1e3b40565271ba
+
+COCOAPODS: 1.5.3
